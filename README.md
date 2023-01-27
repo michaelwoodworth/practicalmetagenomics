@@ -5,6 +5,8 @@ At each step in analysis, we post the tools, their citation (when available), an
 
 Data for the analyses in the PREMIX paper that will be used for this repository are available through the NCBI Bioproject (accession PRJNA728680).
 
+Subsets of these data and other files for this course are on [OneDrive](https://emory-my.sharepoint.com/:f:/g/personal/mwoodwo_emory_edu/EiKUkQ__b2lLjGX8h-VmZZAB5Hx1y0kPhSvmcwR59xg97g?e=eZk9ad), please email me for access if you have trouble.
+
 ---
 
 ## Overview
