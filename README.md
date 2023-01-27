@@ -7,7 +7,7 @@ Data for the analyses in the PREMIX paper that will be used for this repository 
 
 ---
 
-### Overview
+## Overview
 We will meet weekly from January 27 until April 28 to cover the following topics:
 
 | Week | Dates | Topic | Paper(s)/Link |
@@ -26,4 +26,3 @@ We will meet weekly from January 27 until April 28 to cover the following topics
 | 12 | Apr 9 - Apr 15 | Final Project and intro to Python | 	https://swcarpentry.github.io/python-novice-inflammation/
 | 13 | Apr 16 - Apr 22 | Final Project
 | 14 | Apr 23 - April 29 | Final Project
-
