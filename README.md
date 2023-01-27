@@ -12,7 +12,7 @@ We will meet weekly from January 27 until April 28 to cover the following topics
 
 | Week | Dates | Topic | Paper(s)/Link |
 | --- | --- | --- | --- |
-| 1	| Jan 22 - Jan 28 | Understand Premix dataset and Premix study methods | Woodworth et al (under review)
+| 1	| [Jan 22 - Jan 28](pages/23.01.27.md) | Understand Premix dataset and Premix study methods | Woodworth et al (under review)
 | 2	| Jan 29 - Feb 4 | Metagenome quality control | PMID: 24695404 (FastQC)
 | 3	| Feb 5 - Feb 11 | Short read taxonomic classification | Kraken2 (10.1186/s13059-019-1891-0) and bracken (10.7717/peerj-cs.104)
 | 4	| Feb 12 - Feb 18 | Intro to diversity metrics | ([Vegan](https://github.com/vegandevs/vegan) and [Phyloseq](https://joey711.github.io/phyloseq/index.html) packages in R)
