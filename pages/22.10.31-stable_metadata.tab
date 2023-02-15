@@ -1,0 +1,99 @@
+Sample	ID	Cycle	Day	Visit	Group	Exposure	CRE	ESBL	VRE	MDRP	MDRO	MDRO Status	FMT_Dose
+"PM01.C1D01"	"PM01"	"C1"	"D01"	"C1D01"	"FMT"	"Prep"	0	1	0	0	1	"Positive"	
+"PM01.C1D02"	"PM01"	"C1"	"D02"	"C1D02"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	818001
+"PM01.C1D15"	"PM01"	"C1"	"D15"	"C1D15"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	818001
+"PM01.C1D36"	"PM01"	"C1"	"D36"	"C1D36"	"FMT"	"FMT"	0	0	0	0	0	"Negative"	818001
+"PM01.S1"	"PM01"	"S"	"1"	"S1"	"Screen"	"None"	1	1	1	0	1	"Positive"	
+"PM01.S2"	"PM01"	"S"	"2"	"S2"	"Screen"	"None"	0	1	0	0	1	"Positive"	
+"PM01.S3"	"PM01"	"S"	"3"	"S3"	"Screen"	"None"	1	1	1	0	1	"Positive"	
+"PM02.C1D01"	"PM02"	"C1"	"D01"	"C1D01"	"FMT"	"Prep"	0	1	0	0	1	"Positive"	
+"PM02.C1D02"	"PM02"	"C1"	"D02"	"C1D02"	"FMT"	"FMT"	0	0	0	0	0	"Negative"	818002
+"PM02.C1D15"	"PM02"	"C1"	"D15"	"C1D15"	"FMT"	"FMT"	0	0	0	0	0	"Negative"	818002
+"PM02.C1D36"	"PM02"	"C1"	"D36"	"C1D36"	"FMT"	"FMT"	0	0	0	0	0	"Negative"	818002
+"PM02.S1"	"PM02"	"S"	"1"	"S1"	"Screen"	"None"	0	1	0	0	0	"Negative"	
+"PM03.C0D01"	"PM03"	"C0"	"D01"	"C0D01"	"Control"	"Prep"	0	1	1	0	1	"Positive"	
+"PM03.C0D02"	"PM03"	"C0"	"D02"	"C0D02"	"Control"	"None"	0	1	1	0	1	"Positive"	
+"PM03.C0D15"	"PM03"	"C0"	"D15"	"C0D15"	"Control"	"None"	0	1	1	0	1	"Positive"	
+"PM03.C0D36"	"PM03"	"C0"	"D36"	"C0D36"	"Control"	"None"	0	1	1	0	1	"Positive"	
+"PM03.C1D01"	"PM03"	"C1"	"D01"	"C1D01"	"FMT"	"Prep"	0	0	1	0	1	"Positive"	
+"PM03.C1D02"	"PM03"	"C1"	"D02"	"C1D02"	"FMT"	"FMT"	0	0	1	0	1	"Positive"	818002
+"PM03.C1D15"	"PM03"	"C1"	"D15"	"C1D15"	"FMT"	"FMT"	0	0	1	0	1	"Positive"	818002
+"PM03.C1D36"	"PM03"	"C1"	"D36"	"C1D36"	"FMT"	"FMT"	0	0	1	0	1	"Positive"	818002
+"PM03.C2D01"	"PM03"	"C2"	"D01"	"C2D01"	"FMT"	"Prep"	0	0	0	0	0	"Negative"	
+"PM03.C2D02"	"PM03"	"C2"	"D02"	"C2D02"	"FMT"	"FMT"	0	0	0	0	0	"Negative"	718001
+"PM03.C2D15"	"PM03"	"C2"	"D15"	"C2D15"	"FMT"	"FMT"	0	0	0	0	0	"Negative"	718001
+"PM03.C2D36"	"PM03"	"C2"	"D36"	"C2D36"	"FMT"	"FMT"	0	0	0	0	0	"Negative"	718001
+"PM03.S1"	"PM03"	"S"	"1"	"S1"	"Screen"	"None"	0	1	1	0	1	"Positive"	
+"PM04.C1D01"	"PM04"	"C1"	"D01"	"C1D01"	"FMT"	"Prep"	0	1	0	0	1	"Positive"	
+"PM04.C1D02"	"PM04"	"C1"	"D02"	"C1D02"	"FMT"	"FMT"	0	0	0	0	0	"Negative"	818002
+"PM04.C1D15"	"PM04"	"C1"	"D15"	"C1D15"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	818002
+"PM04.C1D36"	"PM04"	"C1"	"D36"	"C1D36"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	818002
+"PM04.C2D01"	"PM04"	"C2"	"D01"	"C2D01"	"FMT"	"Prep"	0	1	0	0	1	"Positive"	
+"PM04.C2D02"	"PM04"	"C2"	"D02"	"C2D02"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	718001
+"PM04.C2D15"	"PM04"	"C2"	"D15"	"C2D15"	"FMT"	"FMT"	0	0	0	0	0	"Negative"	718001
+"PM04.C2D36"	"PM04"	"C2"	"D36"	"C2D36"	"FMT"	"FMT"	0	0	0	0	0	"Negative"	718001
+"PM04.S1"	"PM04"	"S"	"1"	"S1"	"Screen"	"None"	0	1	0	0	1	"Positive"	
+"PM05.C0D01"	"PM05"	"C0"	"D01"	"C0D01"	"Control"	"Prep"	0	1	0	0	1	"Positive"	
+"PM05.C0D02"	"PM05"	"C0"	"D02"	"C0D02"	"Control"	"None"	0	1	0	0	1	"Positive"	
+"PM05.C0D15"	"PM05"	"C0"	"D15"	"C0D15"	"Control"	"None"	0	1	0	0	1	"Positive"	
+"PM05.C0D36"	"PM05"	"C0"	"D36"	"C0D36"	"Control"	"None"	0	1	0	0	1	"Positive"	
+"PM05.C1D01"	"PM05"	"C1"	"D01"	"C1D01"	"FMT"	"Prep"	0	1	0	0	1	"Positive"	
+"PM05.C1D02"	"PM05"	"C1"	"D02"	"C1D02"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	419002
+"PM05.C1D15"	"PM05"	"C1"	"D15"	"C1D15"	"FMT"	"FMT"	0	0	0	0	0	"Negative"	419002
+"PM05.C1D36"	"PM05"	"C1"	"D36"	"C1D36"	"FMT"	"FMT"	0	0	0	0	0	"Negative"	419002
+"PM05.S1"	"PM05"	"S"	"1"	"S1"	"Screen"	"None"	0	1	0	0	1	"Positive"	
+"PM06.C1D01"	"PM06"	"C1"	"D01"	"C1D01"	"FMT"	"Prep"	1	1	1	0	1	"Positive"	
+"PM06.C1D02"	"PM06"	"C1"	"D02"	"C1D02"	"FMT"	"FMT"	0	1	1	0	1	"Positive"	718001
+"PM06.C1D15"	"PM06"	"C1"	"D15"	"C1D15"	"FMT"	"FMT"	0	0	1	0	1	"Positive"	718001
+"PM06.C1D36"	"PM06"	"C1"	"D36"	"C1D36"	"FMT"	"FMT"	0	0	0	0	0	"Negative"	718001
+"PM06.S1"	"PM06"	"S"	"1"	"S1"	"Screen"	"None"	1	1	1	0	1	"Positive"	
+"PM07.C0D01"	"PM07"	"C0"	"D01"	"C0D01"	"Control"	"Prep"	0	1	0	0	1	"Positive"	
+"PM07.C0D02"	"PM07"	"C0"	"D02"	"C0D02"	"Control"	"None"	0	1	0	0	1	"Positive"	
+"PM07.C0D15"	"PM07"	"C0"	"D15"	"C0D15"	"Control"	"None"	0	1	0	0	1	"Positive"	
+"PM07.C0D36"	"PM07"	"C0"	"D36"	"C0D36"	"Control"	"None"	0	1	0	0	1	"Positive"	
+"PM07.C1D01"	"PM07"	"C1"	"D01"	"C1D01"	"FMT"	"Prep"	0	1	0	0	1	"Positive"	
+"PM07.C1D02"	"PM07"	"C1"	"D02"	"C1D02"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	818002
+"PM07.C1D15"	"PM07"	"C1"	"D15"	"C1D15"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	818002
+"PM07.C1D36"	"PM07"	"C1"	"D36"	"C1D36"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	818002
+"PM07.C2D01"	"PM07"	"C2"	"D01"	"C2D01"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	
+"PM07.C2D02"	"PM07"	"C2"	"D02"	"C2D02"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	419001
+"PM07.C2D15"	"PM07"	"C2"	"D15"	"C2D15"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	419001
+"PM07.C2D36"	"PM07"	"C2"	"D36"	"C2D36"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	419001
+"PM07.S1"	"PM07"	"S"	"1"	"S1"	"Screen"	"None"	0	1	0	0	1	"Positive"	
+"PM07.S2"	"PM07"	"S"	"2"	"S2"	"Screen"	"None"	0	1	0	0	1	"Positive"	
+"PM08.C0D01"	"PM08"	"C0"	"D01"	"C0D01"	"Control"	"Prep"	0	1	0	0	1	"Positive"	
+"PM08.C0D02"	"PM08"	"C0"	"D02"	"C0D02"	"Control"	"None"	0	1	0	0	1	"Positive"	
+"PM08.C0D15"	"PM08"	"C0"	"D15"	"C0D15"	"Control"	"None"	0	1	0	0	1	"Positive"	
+"PM08.C0D36"	"PM08"	"C0"	"D36"	"C0D36"	"Control"	"None"	0	1	0	0	1	"Positive"	
+"PM08.C1D01"	"PM08"	"C1"	"D01"	"C1D01"	"FMT"	"Prep"	0	1	0	0	1	"Positive"	
+"PM08.C1D02"	"PM08"	"C1"	"D02"	"C1D02"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	419001
+"PM08.C1D15"	"PM08"	"C1"	"D15"	"C1D15"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	419001
+"PM08.C1D36"	"PM08"	"C1"	"D36"	"C1D36"	"FMT"	"FMT"	0	0	0	0	0	"Negative"	419001
+"PM08.S1"	"PM08"	"S"	"1"	"S1"	"Screen"	"None"	0	0	0	0	0	"Negative"	
+"PM08.S2"	"PM08"	"S"	"2"	"S2"	"Screen"	"None"	0	1	0	0	1	"Positive"	
+"PM08.S3"	"PM08"	"S"	"3"	"S3"	"Screen"	"None"	0	1	0	0	1	"Positive"	
+"PM09.C1D01"	"PM09"	"C1"	"D01"	"C1D01"	"FMT"	"Prep"	0	0	0	0	0	"Negative"	
+"PM09.C1D15"	"PM09"	"C1"	"D15"	"C1D15"	"FMT"	"FMT"	0	0	1	0	1	"Positive"	419002
+"PM09.C1D36"	"PM09"	"C1"	"D36"	"C1D36"	"FMT"	"FMT"	0	0	0	0	0	"Negative"	419002
+"PM09.S1"	"PM09"	"S"	"1"	"S1"	"Screen"	"None"	0	0	0	1	1	"Positive"	
+"PM09.S2"	"PM09"	"S"	"2"	"S2"	"Screen"	"None"	0	0	0	1	1	"Positive"	
+"PM09.S3"	"PM09"	"S"	"3"	"S3"	"Screen"	"None"	0	0	1	1	1	"Positive"	
+"PM11.S1"	"PM11"	"S"	"1"	"S1"	"Screen"	"None"	0	0	1	0	1	"Positive"	
+"PM12.C0D01"	"PM12"	"C0"	"D01"	"C0D01"	"Control"	"Prep"	0	0	0	0	0	"Negative"	
+"PM12.C0D02"	"PM12"	"C0"	"D02"	"C0D02"	"Control"	"None"	0	0	0	0	0	"Negative"	
+"PM12.C0D15"	"PM12"	"C0"	"D15"	"C0D15"	"Control"	"None"	0	1	0	0	1	"Positive"	
+"PM12.C0D36"	"PM12"	"C0"	"D36"	"C0D36"	"Control"	"None"	0	1	0	0	1	"Positive"	
+"PM12.S1"	"PM12"	"S"	"1"	"S1"	"Screen"	"None"	0	1	0	0	1	"Positive"	
+"PM13.C1D01"	"PM13"	"C1"	"D01"	"C1D01"	"FMT"	"Prep"	0	1	0	0	1	"Positive"	
+"PM13.C1D02"	"PM13"	"C1"	"D02"	"C1D02"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	419003
+"PM13.C1D15"	"PM13"	"C1"	"D15"	"C1D15"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	419003
+"PM13.C1D36"	"PM13"	"C1"	"D36"	"C1D36"	"FMT"	"FMT"	0	1	0	0	1	"Positive"	419003
+"PM13.S1"	"PM13"	"S"	"1"	"S1"	"Screen"	"None"	0	1	0	0	1	"Positive"	
+"PM15.S1"	"PM15"	"S"	"1"	"S1"	"Screen"	"None"	0	1	1	0	1	"Positive"	
+"PM16.S1"	"PM16"	"S"	"1"	"S1"	"Screen"	"None"	0	0	1	0	1	"Positive"	
+"SD01.0419001"	"SD01"	"D"	"D"	"419001"	"Donor"	"Donor"	0	0	0	0	0	"Negative"	419001
+"SD01.0419002"	"SD01"	"D"	"D"	"419002"	"Donor"	"Donor"	0	0	0	0	0	"Negative"	419002
+"SD01.0419003"	"SD01"	"D"	"D"	"419003"	"Donor"	"Donor"	0	0	0	0	0	"Negative"	419003
+"SD01.0718001"	"SD01"	"D"	"D"	"718001"	"Donor"	"Donor"	0	0	0	0	0	"Negative"	718001
+"SD01.0818001"	"SD01"	"D"	"D"	"818001"	"Donor"	"Donor"	0	0	0	0	0	"Negative"	818001
+"SD01.0818002"	"SD01"	"D"	"D"	"818002"	"Donor"	"Donor"	0	0	0	0	0	"Negative"	818002
