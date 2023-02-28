@@ -19,7 +19,7 @@ We will meet weekly from January 27 until April 28 to cover the following topics
 | 3	| Feb 5 - Feb 11 | [Short read taxonomic classification](pages/23.02.10.md) | [Kraken2](https://pubmed.ncbi.nlm.nih.gov/31779668/) and [bracken](https://peerj.com/articles/cs-104/)
 | 4	| Feb 12 - Feb 18 | [Intro to diversity metrics](pages/23.02.17.md) | ([Vegan](https://github.com/vegandevs/vegan) and [Phyloseq](https://joey711.github.io/phyloseq/index.html) packages in R)
 | 5	| Feb 19 - Feb 25 | [Dimensionality reduction (PCA, PCoA, TSNE)](pages/23.02.24.md) |	https://joey711.github.io/phyloseq/index.html
-| 6 | Feb 26 - Mar 4 | [Contig Assembly and binning](pages/23.03.03.md)	| PMID: 28298430
+| 6 | Feb 26 - Mar 4 | [Contig Assembly and binning](pages/23.03.03.md)	| [PMID: 28298430](https://doi.org/10.1101/gr.213959.116)
 | 7	| Mar 5 - March 11 | Contig annotation and analysis	| PMID: 20211023 PMID: 34597405
 | 8	| Mar 12 - Mar 18 | Metagenomic plotting and data vis	| https://ggplot2.tidyverse.org
 | 9	| Mar 19 - Mar 25 | Analysis with QIIME 2	| https://qiime2.org
