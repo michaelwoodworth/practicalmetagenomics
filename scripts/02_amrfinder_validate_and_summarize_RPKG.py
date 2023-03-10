@@ -8,6 +8,7 @@ This script takes the following inputs:
 	(output from step 00)
 - directory containing ${uniqueID}_gene_info.tsv files
 	(output from inStrain https://instrain.readthedocs.io/)
+- microbecensus_summary.tsv file
 
 With intermediate validation steps (option -V):
 
