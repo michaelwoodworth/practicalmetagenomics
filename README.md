@@ -22,7 +22,7 @@ We will meet weekly from January 27 until April 28 to cover the following topics
 | 6 | Feb 26 - Mar 4 | [Contig Assembly and binning](pages/23.03.03.md)	| [PMID: 28298430](https://doi.org/10.1101/gr.213959.116)
 | 7	| Mar 5 - March 11 | [Contig gene prediction and annotation](pages/23.03.10.md)	| PMID: 20211023 PMID: 34597405
 | 8	| Mar 12 - Mar 18 | [Coverage estimates with inStrain](pages/23.03.17.md)	| [inStrain](https://doi.org/10.1038/s41587-020-00797-0)
-| 9	| Mar 12 - Mar 18 | Metagenomic plotting and data vis	| https://ggplot2.tidyverse.org
+| 9	| Mar 12 - Mar 18 | [Metagenomic plotting and data vis](pages/23.03.24.md)	| https://ggplot2.tidyverse.org
 | 10 | Mar 19 - Mar 25 | Analysis with QIIME 2	| https://qiime2.org
 | 11 | Mar 26 - Apr 1 | Analysis with QIIME 2	| https://qiime2.org
 | 12 | Apr 2 - Apr 8 | How to work with 16S data and perform 16S sequencing| 	https://qiime2.org
