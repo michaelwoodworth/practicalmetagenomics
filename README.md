@@ -14,7 +14,7 @@ We will meet weekly from January 27 until April 28 to cover the following topics
 
 | Week | Dates | Topic | Paper(s)/Link |
 | --- | --- | --- | --- |
-| 1	| Jan 22 - Jan 28 | [Understand Premix dataset and log in to server](pages/23.01.27.md) | Woodworth et al (under review)
+| 1	| Jan 22 - Jan 28 | [Understand Premix dataset and log in to server](pages/23.01.27.md) | [PREMIX paper](https://www.science.org/doi/abs/10.1126/scitranslmed.abo2750)
 | 2	| Jan 29 - Feb 4 | [Metagenome quality control](pages/23.02.03.md) | [PMID: 24695404 (Trimmomatic)](https://pubmed.ncbi.nlm.nih.gov/24695404/)
 | 3	| Feb 5 - Feb 11 | [Short read taxonomic classification](pages/23.02.10.md) | [Kraken2](https://pubmed.ncbi.nlm.nih.gov/31779668/) and [bracken](https://peerj.com/articles/cs-104/)
 | 4	| Feb 12 - Feb 18 | [Intro to diversity metrics](pages/23.02.17.md) | ([Vegan](https://github.com/vegandevs/vegan) and [Phyloseq](https://joey711.github.io/phyloseq/index.html) packages in R)
